@@ -14,7 +14,7 @@ This is a Node.js and Express-based web scraper that fetches events from Meetup 
 
 - **Backend:** Node.js, Express, Puppeteer, MongoDB
 - **Frontend:** React, Tailwind CSS
-- **Deployment:** Render (backend), Vercel (frontend)
+- **Deployment:** Railway (backend), Vercel (frontend)
 
 ## Setup Instructions
 
